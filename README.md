@@ -6,12 +6,12 @@
 **接口描述**： 用户登录  
 **Auth-date**：[add by XXX 2018-3-17]  
 #####   请求格式：  
-```json  
-{  
-    "requestObject":  
+```
+ 
+    json:  
     {  
         "id":"",//用户名  
         "password":"",//用户密码        
     }//请求对象  
-}  
+ 
 ```  
